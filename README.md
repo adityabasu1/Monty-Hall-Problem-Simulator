@@ -3,7 +3,7 @@
 
 Python code to simulate the Monty Hall Problem (MHP) and verify winning probabilities<br />
    
-Run the code with: python3 MHP.py <NUMBER OF SIMULATIONS><br />
+Run the code with: python3 MHP.py NUMBER OF SIMULATIONS <br />
 Recommended NUMBER OF SIMULATIONS: 2500-3000 (although the more the merrier)<br />
 Approximate run-time for 2500-3000 simulations: 1 minute<br />
 
