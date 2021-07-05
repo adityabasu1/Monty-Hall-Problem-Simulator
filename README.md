@@ -20,5 +20,6 @@ i.e with very high number of simulations, the winning ratio does converge to its
    
 Useful links: 
 About the problem: https://en.wikipedia.org/wiki/Monty_Hall_problem
+   
 MIT Maths for CS: https://www.youtube.com/watch?v=SmFwFdESMHI
    
