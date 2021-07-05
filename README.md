@@ -1,7 +1,7 @@
 # Monty-Hall-Problem-Simulator
 
 
-Code to simulate the Monty Hall Problem (MHP) and verify winning probabilities<br />
+Python code to simulate the Monty Hall Problem (MHP) and verify winning probabilities<br />
    
 Run the code with: python3 MHP.py <NUMBER OF SIMULATIONS><br />
 Recommended NUMBER OF SIMULATIONS: 2500-3000 (although the more the merrier)<br />
