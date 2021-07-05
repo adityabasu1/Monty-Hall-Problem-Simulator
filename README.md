@@ -8,9 +8,12 @@ Recommended NUMBER OF SIMULATIONS: 2500-3000 (although the more the merrier)
 Approximate run-time for 2500-3000 simulations: 1 minute
 
 We also verify the following facts (using a plot):
+   
 (i) probability of winning if you switch = 2/3
+   
 (ii) probability of winning if you stick = 1/3
-We also verify the following facts using a plot):
+   
+We also verify the following facts using a generated plot:
 
 Mathematical insight:
 Assume (#winning ratio after switching) as a Bernoulli random variable with p = 2/3
