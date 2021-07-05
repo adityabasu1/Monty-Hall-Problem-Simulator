@@ -7,11 +7,10 @@ Run the code with: python3 MHP.py <NUMBER OF SIMULATIONS><br />
 Recommended NUMBER OF SIMULATIONS: 2500-3000 (although the more the merrier)<br />
 Approximate run-time for 2500-3000 simulations: 1 minute<br />
 
-We also verify the following facts (using a plot):
+We also verify the following facts (using a plot):<br />
    
 (i) probability of winning if you switch = 2/3<br />
 (ii) probability of winning if you stick = 1/3<br />
-We also verify the following facts using a generated plot
 
 Mathematical insight:<br />
 Assume (#winning ratio after switching) as a Bernoulli random variable with p = 2/3<br />
