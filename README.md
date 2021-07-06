@@ -10,8 +10,8 @@ Approximate run-time for 2500-3000 simulations: 1 minute<br />
 
 ## Verification of the following facts (using a generated plot):<br />
    
-(i) probability of winning if you switch = 2/3<br />
-(ii) probability of winning if you stick = 1/3<br />
+~ Probability of winning if you switch = 2/3<br />
+~ Probability of winning if you stick = 1/3<br />
 
 ## Mathematical insight:<br />
 Assume (#winning ratio after switching) as a Bernoulli random variable with p = 2/3 (Expectation = 2/3)<br />
